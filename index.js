@@ -2,5 +2,5 @@ var student={
     name:"Dung Tran",
     age:20
 }
-student.prototy.dead=false;
+student.prototype.dead=false;
 module.exports=student;
